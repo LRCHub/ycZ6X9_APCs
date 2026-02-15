@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Igloo",
+  "base_artist": "KISS OF LIFE",
+  "createdAt": "2026-02-15T15:26:30.563796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Igloo",
+      "artist": "Clear Tigers",
+      "has_synced": false,
+      "path": "select/01_Igloo_Clear_Tigers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Igloo",
+      "artist": "The Go Find",
+      "has_synced": false,
+      "path": "select/02_Igloo_The_Go_Find.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Igloo On the Moon (Reckless)",
+      "artist": "Warlock",
+      "has_synced": true,
+      "path": "select/03_Igloo_On_the_Moon_(Reckless)_Warlock.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Igloo - 1987",
+      "artist": "Screaming Tribesmen",
+      "has_synced": false,
+      "path": "select/04_Igloo_-_1987_Screaming_Tribesmen.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Comme un igloo (2016 Remastered)",
+      "artist": "Étienne Daho",
+      "has_synced": false,
+      "path": "select/05_Comme_un_igloo_(2016_Remastered)_Étienne_Daho.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Comme Un Igloo",
+      "artist": "Etienne Daho",
+      "has_synced": false,
+      "path": "select/06_Comme_Un_Igloo_Etienne_Daho.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Igloo",
+      "artist": "Key Glock",
+      "has_synced": false,
+      "path": "select/07_Igloo_Key_Glock.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "IGLOO",
+      "artist": "Shawn Wasabi",
+      "has_synced": true,
+      "path": "select/08_IGLOO_Shawn_Wasabi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "IGLOO (feat. CLUBESKIMO)",
+      "artist": "millic feat. Clubeskimo",
+      "has_synced": true,
+      "path": "select/09_IGLOO_(feat._CLUBESKIMO)_millic_feat._Clubeskimo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "IGLOO (Feat. CLUBESKIMO)",
+      "artist": "millic",
+      "has_synced": true,
+      "path": "select/10_IGLOO_(Feat._CLUBESKIMO)_millic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Igloo",
+      "artist": "Karian",
+      "has_synced": true,
+      "path": "select/11_Igloo_Karian.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Igloo",
+      "artist": "Karian & Golonq",
+      "has_synced": true,
+      "path": "select/12_Igloo_Karian_&_Golonq.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Igloo",
+      "artist": "KISS OF LIFE",
+      "has_synced": false,
+      "path": "select/pl_01_Igloo_KISS_OF_LIFE.txt"
+    }
+  ]
+}
